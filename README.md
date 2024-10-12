@@ -10,6 +10,9 @@
 - 📫 How to reach me **kingosenitosin@gmail.com**
 
 - ⚡ Fun fact **Im a failed comedian**
+- 
+### LeetCode Stats:
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/oluwatosin001?ext=heatmap)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
