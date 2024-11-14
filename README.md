@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oluwatosin Oseni</h1>
 <h3 align="center">Aspiring fullstack developer</h3>
 
-- 🌱 I’m currently learning **React, SQL**
+- 🌱 I’m currently learning **React, SQL, Go(Golang)**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
