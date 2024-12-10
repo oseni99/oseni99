@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kingosenitosin@gmail.com**
 
-- ⚡ Fun fact **Im a failed comedian**
+- ⚡ Fun fact **I could play drums from age 10**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
