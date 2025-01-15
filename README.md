@@ -22,6 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oseni99&show_icons=true&locale=en&layout=compact" alt="oseni99" /></p>
 
-### LeetCode Stats:
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/oluwatosin001?ext=heatmap)
 
